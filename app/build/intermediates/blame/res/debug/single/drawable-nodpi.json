@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\sliding_menu_line.png",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-nodpi\\sliding_menu_line.png"
+    },
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\img_scan_logo.png",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-nodpi\\img_scan_logo.png"
+    }
+]

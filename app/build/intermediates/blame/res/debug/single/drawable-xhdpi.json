@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

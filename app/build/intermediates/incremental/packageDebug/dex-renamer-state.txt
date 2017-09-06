@@ -1,0 +1,7 @@
+#Wed Sep 06 21:50:05 CST 2017
+base.0=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_32e7690c196fbebc014147379e5869bae7b3cc3c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec9abf51b4e079e1f7e2f4e4311230f25c06129e\\classes.dex
+base.1=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec9abf51b4e079e1f7e2f4e4311230f25c06129e
+file.0=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_32e7690c196fbebc014147379e5869bae7b3cc3c\\classes.dex

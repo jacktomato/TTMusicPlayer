@@ -1,0 +1,13 @@
+#Wed Sep 06 21:50:02 CST 2017
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.3=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\core_5d35e70e9ac304e33743ca3e62fa1833376abefa
+base.2=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\pinyin4j-2.5.0_0bce41fc517cd30f72cb46d50a402dad8fb5c2c3
+base.1=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_acd295be50a429243d2974410f1c2faa72c6cf62
+base.0=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\library_3017d57a03a9c750aa5720829ebf45b4db07261e
+file.3=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\core_5d35e70e9ac304e33743ca3e62fa1833376abefa\\classes.dex
+file.2=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\pinyin4j-2.5.0_0bce41fc517cd30f72cb46d50a402dad8fb5c2c3\\classes.dex
+file.1=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_acd295be50a429243d2974410f1c2faa72c6cf62\\classes.dex
+file.0=H\:\\android_project\\TTMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\library_3017d57a03a9c750aa5720829ebf45b4db07261e\\classes.dex

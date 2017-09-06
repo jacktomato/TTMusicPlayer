@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\android_project\TTMusic\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_0bce41fc517cd30f72cb46d50a402dad8fb5c2c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_project\TTMusic\app\libs\library.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5fbbd84981781c09a2f902f6e1755431d05014b4">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\library_3017d57a03a9c750aa5720829ebf45b4db07261e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_project\TTMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a28c07e624911673494428c53ad8fd4f02f58387">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_32e7690c196fbebc014147379e5869bae7b3cc3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_project\TTMusic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec9abf51b4e079e1f7e2f4e4311230f25c06129e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_project\TTMusic\app\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="60771a7a1ed9537e36f3ffb78ceb1016886270b1">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\core_5d35e70e9ac304e33743ca3e62fa1833376abefa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\android_project\TTMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_acd295be50a429243d2974410f1c2faa72c6cf62\classes.dex" />
+    </item>
+
+</items>

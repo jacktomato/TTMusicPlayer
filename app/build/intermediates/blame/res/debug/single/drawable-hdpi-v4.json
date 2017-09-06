@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "H:\\android_project\\TTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_splash_background.jpg",
+        "source": "H:\\android_project\\TTMusic\\app\\src\\main\\res\\drawable-hdpi\\image_splash_background.jpg"
+    }
+]
